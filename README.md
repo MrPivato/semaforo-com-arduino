@@ -3,9 +3,9 @@ Semáforo com batimentos cardíacos, Arduino.
 
 ## O que é o Arduino?
 "Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de 
-placa única, projetada com um microcontrolador Atmel AVR com suporte de 
+placa única, projetada com um microcontrolador **Atmel AVR** com suporte de 
 entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem
-em *Wiring*, e é essencialmente *C/C++*. O objetivo do projeto é criar 
+em **Wiring**, e é essencialmente **C/C++**. O objetivo do projeto é criar 
 ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar 
 por principiantes e profissionais. Principalmente para aqueles que não teriam
 alcance aos controladores mais sofisticados e ferramentas mais complicadas." 
@@ -29,5 +29,16 @@ a necessidade de sistemas embarcados adicionais para o controle de componentes.
 
 ## Dados usados
 ![alt text](imgs/bpm.png "Médias de batimentos por minuto.")
+
+## Dados assumidos para o experimento
+- Número de batimentos por minuto normal: **60 ~ 144**
+- Número de batimentos por minuto médio: **145**
+- Número de batimentos por minuto alto: **175**
+- Número de batimentos por minuto máximo: **185**
+
+*Obs: O número de batimentos podem variar muito de pessoa à pessoa, então foram
+assumidos alguns dos valores como base.  
+Por exemplo, o número de batimentos por 
+minuto de um atleta pode ser tão baixo quanto 40.*
 
 ## Materiais usados
