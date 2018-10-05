@@ -42,3 +42,14 @@ Por exemplo, o número de batimentos por
 minuto de um atleta pode ser tão baixo quanto 40.*
 
 ## Materiais usados
+- 5x **Resitor 1kΩ**
+- 1x **Resistor 10kΩ**
+- 2x **Led vermelho**
+- 2x **Led verde**
+- 1x **Led amarelo**
+- 1x **Botão**
+- 1x **Arduino Uno**
+- 1x **KY-039** (Sensor)
+- 1x **Breadboard**
+- 1x **Buzzer**
+- Alguns **Jumpers**
