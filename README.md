@@ -25,3 +25,9 @@ pedestres. Tudo isto é executado sem nenhum problema por esta plataforma, e sem
 a necessidade de sistemas embarcados adicionais para o controle de componentes.
 
 ## Funcionamento
+![alt text](imgs/funcionamento.png "Imagem do funcionamento do programa")
+
+## Dados usados
+![alt text](imgs/bpm.png "Médias de batimentos por minuto.")
+
+## Materiais usados
