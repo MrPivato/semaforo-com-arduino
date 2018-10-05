@@ -53,3 +53,6 @@ minuto de um atleta pode ser tão baixo quanto 40.*
 - 1x **Breadboard**
 - 1x **Buzzer**
 - Alguns **Jumpers**
+
+## Montagem
+![alt text](imgs/montagem.png "Experimento já montado")
